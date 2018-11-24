@@ -1,6 +1,6 @@
 pragma solidity ^0.4.24;
 
-import "./ERC721.sol";
+import ".erc721-insure.sol";
 
 contract Policy is ERC721, MinterRole {
     
